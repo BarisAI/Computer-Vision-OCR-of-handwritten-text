@@ -5,3 +5,4 @@ data/
 dataset/
 iam_words/
 *.zip
+*.pth
