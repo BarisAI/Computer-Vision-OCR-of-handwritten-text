@@ -84,12 +84,6 @@ The model shows consistent performance between validation and test sets. Most er
 
 ## Requirements
 
-Install dependencies using:
-
-```bash
-pip install -r requirements.txt
-```
-
 Main libraries:
 ```
 PyTorch
