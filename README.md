@@ -42,6 +42,7 @@ Only the annotation file `archive/words_new.txt` and dataset split files are inc
 │   ├── val.csv
 │   └── test.csv
 ├── runs/                      # Training logs
+├── best_ocr_model.pth
 └── Report.pdf                 # Final project report
 ```
 
