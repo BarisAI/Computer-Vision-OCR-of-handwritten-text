@@ -74,8 +74,8 @@ The best model is selected based on **lowest validation CER**.
 ## Results (Test Set)
 
 - **CER:** 0.1166  
-- **WER:** 0.3503  
-- **Word Accuracy:** 0.6497  
+- **WER:** 0.3354  
+- **Word Accuracy:** 0.6646  
 - **Test samples:** 3825  
 
 The model shows consistent performance between validation and test sets. Most errors occur for longer words or visually ambiguous characters.
